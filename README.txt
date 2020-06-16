@@ -29,6 +29,7 @@ Chapter04   第4章 对象与类
     02. EmployeeTest                                        ===> 自定义类
     03. StaticTest                                          ===> 静态域的使用
     04. ParamTest                                           ===> 方法参数的使用
+    05. ConstructorTest                                     ===> 构造器和域初始化
 
 Volume II Java核心技术卷2：高级特征
 
