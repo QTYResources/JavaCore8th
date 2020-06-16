@@ -26,6 +26,7 @@ Volume I  Java核心技术卷1：基础知识
 
 Chapter04   第4章 对象与类
     01. CalendarTest                                        ===> 显示当前月的日历
+    02. EmployeeTest                                        ===> 自定义类
 
 Volume II Java核心技术卷2：高级特征
 
