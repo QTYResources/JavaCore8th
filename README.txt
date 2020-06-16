@@ -28,6 +28,7 @@ Chapter04   第4章 对象与类
     01. CalendarTest                                        ===> 显示当前月的日历
     02. EmployeeTest                                        ===> 自定义类
     03. StaticTest                                          ===> 静态域的使用
+    04. ParamTest                                           ===> 方法参数的使用
 
 Volume II Java核心技术卷2：高级特征
 
