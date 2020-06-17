@@ -32,5 +32,8 @@ Chapter04   第4章 对象与类
     05. ConstructorTest                                     ===> 构造器和域初始化
     06. PackageTest                                         ===> 包的使用
 
+Chapter05   第5章 继承
+    01. ManagerTest                                         ===> 继承的使用
+
 Volume II Java核心技术卷2：高级特征
 
