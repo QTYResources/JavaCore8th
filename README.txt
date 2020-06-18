@@ -35,7 +35,7 @@ Chapter04   第4章 对象与类
 Chapter05   第5章 继承
     01. ManagerTest                                         ===> 继承的使用
     02. PersonTest                                          ===> 抽象类的使用
-
+    03. EqualsTest                                          ===> 实现equals、hashcode和toString方法
 
 Volume II Java核心技术卷2：高级特征
 
