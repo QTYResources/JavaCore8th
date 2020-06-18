@@ -37,6 +37,7 @@ Chapter05   第5章 继承
     02. PersonTest                                          ===> 抽象类的使用
     03. EqualsTest                                          ===> 实现equals、hashcode和toString方法
     04. ArrayListTest                                       ===> ArrayList的使用
-    
+    05. EnumTest                                            ===> 枚举类的使用
+
 Volume II Java核心技术卷2：高级特征
 
