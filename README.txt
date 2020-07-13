@@ -50,6 +50,12 @@ Chapter07   图形程序设计
     07. FillTest                                            ===> 使用填充绘图
     08. ListFonts                                           ===> 打印系统可用的字体的名称
 
+Chapter08 第8章 事件处理
+    01. ButtonTest                                          ===> 处理按钮点击事件
+    02. PlafTest                                            ===> 改变程序观感
+    03. ActionTest                                          ===> 给按钮添加快捷键
+    04. MouseTest                                           ===> 处理鼠标事件
+
 Chapter14   多线程
     01. Bounce                                              ===> 显示一个蹦蹦球动画
     02. BounceThread                                        ===> 多线程实现蹦蹦球动画
