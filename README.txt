@@ -40,7 +40,7 @@ Chapter05   第5章 继承
     05. EnumTest                                            ===> 枚举类的使用
     06. 197
 
-Chapter07   图形程序设计
+Chapter07   第7章 图形程序设计
     01. SimpleFrameTest                                     ===> 显示一个空框架的简单程序
     02. SizeFrameTest                                       ===> 设置应用程序界面大小和位置
     03. NotHelloWorld                                       ===> 绘制文本
@@ -50,13 +50,32 @@ Chapter07   图形程序设计
     07. FillTest                                            ===> 使用填充绘图
     08. ListFonts                                           ===> 打印系统可用的字体的名称
 
-Chapter08 第8章 事件处理
+Chapter08   第8章 事件处理
     01. ButtonTest                                          ===> 处理按钮点击事件
     02. PlafTest                                            ===> 改变程序观感
     03. ActionTest                                          ===> 给按钮添加快捷键
     04. MouseTest                                           ===> 处理鼠标事件
 
-Chapter14   多线程
+Chapter09   第9章 Swing用户界面组件
+    01. Calculator                                          ===> 计算器程序
+    02. TextComponentTest                                   ===> 文本输入框、密码框和文本区域控件的使用
+    03. CheckBoxTest                                        ===> JCheckBox的使用
+    04. RadioButtonTest                                     ===> JRadioButton的使用
+    05. BorderTest                                          ===> 演示边框的使用
+    06. ComboBox                                            ===> 下拉列表控件的使用
+    07. SliderTest                                          ===> 滑块的使用
+    08. MenuTest                                            ===> 菜单的使用
+    09. ToolBarTest                                         ===> 工具条的使用
+    10. GridBagLayoutTest                                   ===> 网格布局的使用
+    11. GroupLayoutTest                                     ===> 组布局的使用
+    12. CircleLayoutTest                                    ===> 自定义圆形布局
+    13. OptionDialogTest                                    ===> 对话框选项的使用
+    14. DialogTest                                          ===> 创建关于对话框
+    15. DataExchangeTest                                    ===> 对话框与程序进行数据交换
+    16. FileChooserTest                                     ===> 文件选择对话框的使用
+    17. ColorChooserTest                                    ===> 颜色选择对话框
+
+Chapter14   第14章 多线程
     01. Bounce                                              ===> 显示一个蹦蹦球动画
     02. BounceThread                                        ===> 多线程实现蹦蹦球动画
     03. UnsynchBankTest                                     ===> 未同步的银行程序
