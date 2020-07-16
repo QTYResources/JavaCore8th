@@ -75,6 +75,19 @@ Chapter09   第9章 Swing用户界面组件
     16. FileChooserTest                                     ===> 文件选择对话框的使用
     17. ColorChooserTest                                    ===> 颜色选择对话框
 
+Chapter10   第10章 部署应用程序和applet
+    01. ResourceTest                                        ===> 获取程序资源
+    02. WebStartCalculator                                  ===> 网页计算器
+    03. NotHelloWorldApplet                                 ===> 一个简单的Applet
+    04. Chart                                               ===> 网页图表
+    05. AppletApplication                                   ===> 创建一个既可以是Applet也可以是应用程序的应用
+    06. PropertiestTest                                     ===> 使用应用程序属性功能
+    07. PrefertiestTest                                     ===> 使用首选项功能
+    08. SystemInfo                                          ===> 打印系统属性
+
+Chapter11   第11章 异常、日志、断言和调试
+    01. 
+
 Chapter14   第14章 多线程
     01. Bounce                                              ===> 显示一个蹦蹦球动画
     02. BounceThread                                        ===> 多线程实现蹦蹦球动画
